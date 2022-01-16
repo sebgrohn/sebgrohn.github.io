@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://sebgrohn.github.io`,
+    siteUrl: "https://sebgrohn.github.io",
   },
-  plugins: [],
+  plugins: ["gatsby-plugin-postcss"],
 };
